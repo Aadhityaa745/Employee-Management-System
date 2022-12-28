@@ -5,4 +5,3 @@ create table registration (id int, name varchar(45), Age int , doj varchar(30), 
 address varchar(50));
 show tables;
 select * from registration;
-
