@@ -1,5 +1,5 @@
 # Employee Management System
-This repository contains a project to build an Employee Management System (EMS). The application is created using Python's Tkinter, and uses a MySQL database to store the data.
+This repository contains a project to build an Employee Management System (EMS) that allows you to add, edit, and delete employee records. It is built using Python's Tkinter library for the GUI and MySql database for storing employee data.
 
 ## Prerequisites
 - Python
@@ -7,7 +7,9 @@ This repository contains a project to build an Employee Management System (EMS).
 
 ## Installation
 - Download the source code
-- Create a database in MySQL, and update the database credentials in the `EMS.py` file
+- Create a database in MySQL, and update the database credentials in the `EMS.py` file- 
+- Tkinter library
+- MySQL Connector for Python
 - Run the `EMS.py` file to launch the application
 
 ## Features
