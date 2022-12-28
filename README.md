@@ -8,7 +8,7 @@ This repository contains a project to build an Employee Management System (EMS).
 ## Installation
 - Download the source code
 - Create a database in MySQL, and update the database credentials in the `EMS.py` file
-- Run the `main.py` file to launch the application
+- Run the `EMS.py` file to launch the application
 
 ## Features
 - Add/Update/Fetch/Delete Employees
