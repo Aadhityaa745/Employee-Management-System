@@ -1,5 +1,5 @@
 # Employee Management System
-This repository contains a project to build an Employee Management System (EMS) that allows you to add, edit, and delete employee records. It is built using Python's Tkinter library for the GUI and MySql database for storing employee data.
+This repository contains a project to build an Employee Management System (EMS) that allows you to add, edit, and delete employee records. It is built using Python's Tkinter library for the GUI and MySQL database for storing employee data.
 
 ## Prerequisites
 - Python
